@@ -1,0 +1,1 @@
+tar -cf server.tar --exclude /node_modules *scp server.tar pi@192.168.1.113:~/
